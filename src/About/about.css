@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Qwigley&display=swap");
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.name h2 {
+  font-family: "Kaushan Script", cursive;
+  font-family: "Qwigley", cursive;
+  font-size:50px;
+}
+
+.name-cv {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  margin: 5% auto;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.CV {
+   
+   background-color: black;
+   color:white;
+   border: 2px solid #1877F2;
+   border-radius: 17px;
+   padding: 10px 20px;
+   transition: background-color 0.35s;
+}
+
+.CV:hover {
+  background-color: #1da1f2;
+  border: none;
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: row;
+}
+
+.intro-sec {
+  margin-left: 170px;
+}
+.intro-sec p {
+  font-size: 18px;
+  line-height: 30px;
+  max-width: 600px;
+  margin-right: 60px;
+
+}
+
+.my_photo {
+  height: 23rem;
+  width: 23rem;
+  border-radius: 13rem; 
+  border: 7px solid rgb(19, 19, 178) ; 
+  box-shadow: 0 0 10px 5px #1da1f2; 
+}
+
+@media screen and (max-width: 800px) {
+  .name-cv, .about-me {
+    flex-direction: column;
+    text-align: center;
+  }
+   
+  .intro-sec h2 {
+    margin-top:30px;
+  }
+
+  .resume {
+    margin-top: 10px; 
+  }
+
+  .intro-sec {
+    margin: 5% auto;
+    text-align: center;
+  }
+
+  .intro-sec p {
+    margin-right: 0;
+  }
+
+  .name {
+    padding-top: 30px;
+  }
+  
+
+  .my_photo {
+    height: 140px;
+    width: 140px;
+    margin-top: 10px;
+  }
+}

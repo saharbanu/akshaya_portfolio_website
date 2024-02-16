@@ -1,0 +1,17 @@
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.project h3 {
+    color: #318CE7;
+    text-decoration: underline;
+}
+
+.project p {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 35px;
+}
