@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/akshaya_portfolio_website/static/css/main.5b2bf54a.css",
-    "main.js": "/akshaya_portfolio_website/static/js/main.eb3b1e1e.js",
+    "main.css": "/akshaya_portfolio_website/static/css/main.79dd0449.css",
+    "main.js": "/akshaya_portfolio_website/static/js/main.17b155f0.js",
     "static/media/myphoto.png": "/akshaya_portfolio_website/static/media/myphoto.8f552f5aeb56d89c77c2.png",
-    "static/media/Akshayafinalresume.pdf": "/akshaya_portfolio_website/static/media/Akshayafinalresume.9232d95fa3b7d5474ece.pdf",
+    "static/media/Akshayafinalresume.pdf": "/akshaya_portfolio_website/static/media/Akshayafinalresume.3b54162a1cfef3af5f67.pdf",
     "static/media/Nodejslogo.svg": "/akshaya_portfolio_website/static/media/Nodejslogo.3126ba8b6c021e37ebaccbaaa3d2ef19.svg",
     "static/media/Expressjslogo.svg": "/akshaya_portfolio_website/static/media/Expressjslogo.493a0dd08d8d77a341e2d22676607a29.svg",
     "static/media/react.svg": "/akshaya_portfolio_website/static/media/react.7c738c950f567912bdc20a7e1a0af183.svg",
@@ -12,11 +12,11 @@
     "index.html": "/akshaya_portfolio_website/index.html",
     "static/media/htmllogo.svg": "/akshaya_portfolio_website/static/media/htmllogo.87f3f64abde68319b96661c04229b687.svg",
     "static/media/css.svg": "/akshaya_portfolio_website/static/media/css.315b8fdb9dbf75ae965b80bf368895cd.svg",
-    "main.5b2bf54a.css.map": "/akshaya_portfolio_website/static/css/main.5b2bf54a.css.map",
-    "main.eb3b1e1e.js.map": "/akshaya_portfolio_website/static/js/main.eb3b1e1e.js.map"
+    "main.79dd0449.css.map": "/akshaya_portfolio_website/static/css/main.79dd0449.css.map",
+    "main.17b155f0.js.map": "/akshaya_portfolio_website/static/js/main.17b155f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b2bf54a.css",
-    "static/js/main.eb3b1e1e.js"
+    "static/css/main.79dd0449.css",
+    "static/js/main.17b155f0.js"
   ]
 }
